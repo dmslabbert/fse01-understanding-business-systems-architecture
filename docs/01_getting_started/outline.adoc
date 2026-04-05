@@ -1,0 +1,200 @@
+= Course Outline
+:toc: left
+:toc-title: Course Outline
+:toclevels: 2
+:sectnums:
+
+== Introduction
+
+=== Welcome
+- Getting started
+- First in the series
+- Theory only, no coding
+- Sit back and watch
+- Foundation for everything else to follow
+
+=== The Goal
+- To answer the question, "How do I become a programmer?"
+- Typical search engine answer
+- There is a better answer
+- What is a programmer?
+- Programming is about thinking, not typing
+- How to become a Full-stack Software Developer
+- What is a software developer?
+- Coder vs programmer vs software developer
+- Focus on enterprise applications
+- Also called line-of-business applications 
+- or business information systems
+
+=== The Problem
+- You need to know a lot of stuff about a lot of stuff
+- The 4 Questions
+- Where do I start?
+- What do I learn?
+- When is it time to move on?
+- Where do I move on to next?
+
+=== The Solution
+- You need a well-designed plan, a roadmap
+- No shortcuts, just smart cuts
+- Learn from the mistakes of others
+- Theory followed by practice
+- Explain what, why, and where first (theory), then how (practice)
+- Keep things real-world
+- Use case
+
+=== The Student
+- Who will benefit
+- Prerequisites
+- Need patience
+- Slow frustrating process
+
+=== The Teacher
+- My Story
+- My Experience
+
+== Information Technology
+- The 5 Components of Information Technology
+- Data
+- Value
+- Label/Context
+- Type
+- Information
+- Knowledge
+- Wisdom
+- Hardware
+- Software
+- Networking
+- People
+
+== Information Systems
+- The 4 Components of Information Systems
+- Technology
+- Processes
+- Users
+- Roles
+  
+== Application Architecture
+- 3 Layer Architecture
+- User Interface Layer
+- Business Logic Layer
+- Database Layer
+- 5 Layer Architecture
+- Business Access Layer
+- Data Access Layer
+- Tiers vs Layers
+
+== The Curriculum
+- Order of Learning
+- Database Layer
+- Business Logic Layer
+- Data Access Layer
+- User Interface Layer
+- Business Access Layer
+- Getting Started
+- Getting Started
+- Database Layer
+- Database Design Fundamentals
+- Database Fundamentals with PostgreSQL
+- Database Fundamentals with MySQL
+- Database Fundamentals with SQL Server
+- Database Fundamentals with SQLite
+- Business Logic Layer
+- Programming Fundamentals with C#
+- Programming Fundamentals with Java
+- Object Oriented Programming with C#
+- Object Oriented Programming with Java
+- Unit Testing with C#
+- Unit Testing with Java
+- Version Control with Git
+- Data Access Layer
+- Building Database Applications with C# and ADO.NET
+- Building Database Applications with C# and Entity Framework
+- Building Database Applications with Java and JDBC
+- Building Database Applications with Java and JPA
+- Building Template-Driven Applications with C#
+- Building Template-Driven Applications with Java
+- Building Mailing Applications with C#
+- Building Mailing Applications with Java
+- Building Reporting Applications with C#
+- Building Reporting Applications with Java
+- Building Scheduler Applications with C#
+- Building Scheduler Applications with Java
+- User Interface Layer
+- Web Fundamentals with HTML
+- Web Fundamentals with CSS
+- Web Fundamentals with JavaScript
+- Web Fundamentals with Bootstrap
+- Business Access Layer
+- Web Applications
+- Building Web Applications with C#
+- Building Web Applications with Java
+- REST Microservices
+- Building RESTful Microservices with C#
+- Building RESTful Microservices with Java
+- SOAP Services
+- Building SOAP Services with Java
+- gRPC Services
+- Building gRPC Services with C#
+- Building gRPC Services with Java
+- Messaging Services
+- Building Messaging Services with C#
+- Building Messaging Services with Java
+- Webhooks
+- Building Webhooks with C#
+- Building Webhooks with Java
+- Single Page Applications
+- Building Single Page Applications (SPA) with Angular
+- Building Single Page Applications (SPA) with React
+- Building Single Page Applications (SPA) with Vue
+- Security
+- Introducing Spring Security
+- Introducing OAuth
+- Introducing JSON Web Tokens (JWT)
+
+== Prerequisites
+- Operating Systems
+- Windows
+- macOS
+- Linux
+- Files & Folders
+- Command Line Interface
+
+== Tools of the Trade
+- Text Editors & IDEs
+- Build Tools
+- Compilers
+- Interpreters
+- Assemblers
+- Maven
+- Gradle
+- dotnet
+- Databases
+- Languages
+- Database
+- SQL
+- Programming
+- C#
+- Java
+- JavaScript
+- Python
+- Scripting
+- HTML
+- CSS
+- Styling
+- Bootstrap
+- Libraries
+- Frameworks
+- Version Control
+- Testing
+- Unit Testing
+- Acceptance Testing
+- End to End Testing
+- Load Testing
+- Stress Testing
+- Automation
+- Lots more...
+
+== Summary
+- Review
+- What Next?
