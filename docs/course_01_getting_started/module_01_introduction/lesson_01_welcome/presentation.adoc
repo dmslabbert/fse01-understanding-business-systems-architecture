@@ -15,7 +15,50 @@
 
 [.column]
 * We will cover a wide range of technologies and concepts, including database design.
-* This course is designed for beginners who are interested in becoming software developers. 
+* This course is designed for beginners who are interested in becoming software developers.
+
+[.columns]
+== Three Columns
+
+[.column]
+* One
+* Two
+* Three
+
+[.column]
+* Four
+* Five
+* Six
+
+[.column]
+* Seven
+* Eight
+* Nine
+
+[.columns]
+== Four Columns
+
+[.column]
+* One
+* Two
+* Three
+* Four
+* Five
+
+[.column]
+* Four
+* Five
+* Six
+
+[.column]
+* Seven
+* Eight
+* Nine
+
+[.column]
+* Ten
+* Eleven
+* Twelve
 
 == Order of Learning
 
@@ -29,7 +72,10 @@ image::images/test.svg[]
 
 == Database Layer
 [%step]   
-* The database layer is the foundation of any software application. 
-* It is responsible for storing and managing data. 
-* We will also learn about SQL, which is the language used to interact with databases. 
+* The database layer is the foundation of any software application.
+* It is responsible for storing and managing data.
+* We will also learn about SQL, which is the language used to interact with databases.
 * Finally, we will learn how to connect to databases using programming languages, such as Java or Python.
+* The database layer is the foundation of any software application.
+* It is responsible for storing and managing data.
+* We will also learn about SQL, which is the language used to interact with databases.
