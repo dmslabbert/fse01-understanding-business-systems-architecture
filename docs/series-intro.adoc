@@ -12,7 +12,7 @@ I'm going to teach you how to design and build *complete business systems* — t
 
 Let's take a look at the roadmap.
 
-image::assets/images/roadmap.png[width=600]
+image::assets/images/roadmap-dark.png[width=600]
 
 This diagram represents the journey you're about to take.
 

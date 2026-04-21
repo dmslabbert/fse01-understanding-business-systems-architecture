@@ -27,4 +27,4 @@
 * FSE 13R: Client-Side Rendering for Business Systems (React)
 
 == Roadmap
-image::./assets/images/roadmap.png[width=600]
+image::./assets/images/roadmap-light.png[width=600]
