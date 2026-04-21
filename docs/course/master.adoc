@@ -1,4 +1,0 @@
-= Becoming a Programmer - Getting Started
-:doctype: book
-
-include::outline.adoc[]
